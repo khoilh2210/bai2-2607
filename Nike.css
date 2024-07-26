@@ -1,0 +1,236 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color:#39393b;
+    font-family: "Roboto", sans-serif;
+}
+
+#nike{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color:#111111;
+}
+
+.top{
+    width: 100vw;
+    height: 36px;
+    display: flex;
+    background-color:#111111;
+}
+
+#top-left{
+    width: 679.6px;
+    height: 36px;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+#top-right{
+    width: 679.6px;
+    height: 36px;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 5px;
+}
+
+#find{
+    width: 92.78px;
+    height: 36px;
+    font-size: 12px;
+    color: #ffffff;   
+    list-style-type: none; 
+}
+
+#help{
+    width: 50.64px;
+    height: 36px;
+    font-size: 12px;
+    color: #ffffff;    
+    list-style-type: none;
+}
+
+#join{
+    width: 66.59px;
+    height: 36px;
+    font-size: 12px;
+    color: #ffffff;   
+    list-style-type: none;
+}
+
+#sign{
+    width: 38.7px;
+    height: 18px;
+    font-size: 12px;
+    color: #ffffff;  
+    list-style-type: none;  
+}
+
+.bottom{
+    width: 100vw;
+    height: 60px;
+    background-color: #39393b;
+    justify-content: space-evenly ;
+    display: flex;
+}
+
+#left1 > #img2{
+    padding-left: 50px;
+}
+
+#center1{
+    width: 792.88px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    list-style-type: none;
+    align-items: center;
+   padding-left: 300px;
+    color: #ffffff;
+}
+
+#nf{
+    width: 144.56px;
+    height: 60px;
+    padding: 0 0 0 12px;
+
+}
+
+#men{
+    width: 56.31px;
+    height: 60px;
+    padding: 0 0 0 12px;
+}
+
+#women{
+    width: 80.55px;
+    height: 60px;
+    padding: 0 0 0 12px;
+}
+
+#kids{
+    width: 57.29px;
+    height: 60px;
+    padding: 0 0 0 12px;
+}
+
+#sale{
+    width: 57.05px;
+    height: 60px;
+    padding: 0 0 0 12px;
+}
+
+#ctm{
+    width: 103.05px;
+    height: 60px;
+    padding: 0 0 0 12px;
+}
+
+#snkrs{
+    width: 79.19px;
+    height: 60px;
+    padding: 0 0 0 12px;
+}
+
+#right1{
+    width: 339.8px;
+    height: 36px;
+    justify-content: flex-end;
+    padding-top: 20px;
+}
+
+#right1 > input{
+    border-radius:24px;
+    width: 124px;
+    height: 36px;
+    border: none;
+    color: #bcbcbc;
+    background-color: #111111;   
+}
+
+.material-symbols-outlined{
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    color: #fff8f8;   
+    background-color: #111111;
+    border-radius: 24px;
+}
+
+
+
+
+.bottom2 > #img3{
+    justify-content: center;
+    display: flex;
+    padding-top: 20px;
+}
+.bottom3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #cdff00;
+    
+}
+
+#pack{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    align-items: center;
+    font-size: 16px;
+   
+}
+#win{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+#engin{
+    display: flex;
+    justify-content: center;
+    flex-direction: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.bottom4{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+#ea{
+    border-radius: 24px;
+    max-width: 100%;
+    max-height: 40%;
+    font-size: 16px;
+    background-color: #cdff00;
+}
+#sa{
+    border-radius: 24px;
+    max-width: 100%;
+    height: 40%;
+    font-size: 16px;
+    background-color: #cdff00;
+}
+
+.bottom4 > #ea:hover{
+    background-color: #9acf03;
+}
+
+.bottom4 > #sa:hover{
+    background-color: #9acf03;
+}
+
+
